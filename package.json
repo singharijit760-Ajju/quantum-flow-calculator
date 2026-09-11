@@ -1,0 +1,11 @@
+{
+  "name": "quantum-flow-calculator",
+  "version": "3.0.0",
+  "description": "A calculator with consciousness — predictive, generative-art, voice-enabled, offline-first.",
+  "scripts": {
+    "test": "node tests/qfc.test.js",
+    "start": "npx --yes serve ."
+  },
+  "keywords": ["calculator", "pwa", "generative-art", "offline-first", "voice"],
+  "license": "MIT"
+}

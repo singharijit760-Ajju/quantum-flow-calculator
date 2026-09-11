@@ -1,0 +1,14 @@
+{
+  "name": "Quantum Flow Calculator",
+  "short_name": "QFlow",
+  "description": "A calculator with consciousness — predictive, generative-art, voice-enabled, offline-first.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1026",
+  "theme_color": "#0b1026",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
